@@ -1,0 +1,54 @@
+.rightpic {
+    float: right;
+    margin: -10px 50px 5px 5px;
+    border:2px solid #A64AC9; 
+    border-radius: 10px;
+   }
+   h1,h2,h3,p {
+    margin: 25px 15px 15px 50px
+   }
+   h1 {
+    margin-top:60px;
+    font-size:50px;
+   }
+   hr {
+    margin-top: 200px;
+    background-color: #A64AC9;
+    border: none;
+    height: 2px;
+   }
+   ul {
+    margin: -450px 0px 0px 50px;
+    font-size:18px
+   }
+
+   .block {
+    width:105px;
+    margin: 20px 20px 20px 20px;
+    border: 2px solid #FCCD04;
+    padding: 0px 2px 4px 20px;
+    font-size: 25px;
+    background-color:#A64AC9;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Oswald', sans-serif;
+    color: #FCCD04;
+    border-radius: 10px;
+    text-shadow: #FCCD04 0 0 3px
+   }
+   h1,h2,h3,ul,p,span,a{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Oswald', sans-serif;
+    color: #FCCD04;
+   }
+   html {
+    background-color: #1D1D1D;
+   }
+   .colortext,li{
+    color:#A64AC9
+   }
+   ol {
+    margin: 5px 0px 0px -37px;
+   }
+   .block:hover {
+    background: #1D1D1D;
+   } 
